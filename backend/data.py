@@ -30,7 +30,7 @@ backend_data = [
         "author": {
             "id": 2,
             "name": "Andy Weir",
-            "bio": "Andy Weir is a Canadian novelist, short story writer, screenwriter, and film director.",
+            "bio": None
         },
     },
 ]
