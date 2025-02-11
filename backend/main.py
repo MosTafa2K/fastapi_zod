@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from data import backend_data as books
-from models import Author, Book
+from models import Book
 
 
 app = FastAPI()
