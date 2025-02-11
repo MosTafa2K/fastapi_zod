@@ -16,7 +16,7 @@ This project demonstrates data validation in a full-stack application using **Fa
 - **Frontend:** React, TypeScript, Zod
 
 ## Installation
-1. Clone the repository:
+First Clone the repository:
    ```bash
    git clone https://github.com/MosTafa2K/fastapi_zod.git
    cd fastapi_zod
