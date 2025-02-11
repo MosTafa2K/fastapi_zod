@@ -16,14 +16,17 @@ This project demonstrates data validation in a full-stack application using **Fa
 - **Frontend:** React, TypeScript, Zod
 
 ## Installation
-
-### Backend Setup
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/MosTafa2K/fastapi_zod.git
    cd fastapi_zod
    ```
+### Backend Setup
+1. Navigate to the backend directory:
+   ```bash
+   cd backend
+   ```
+
 2. Create and activate a virtual environment:
    ```bash
    python -m venv env
